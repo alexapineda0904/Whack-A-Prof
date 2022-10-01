@@ -1,5 +1,7 @@
-# 3140 Graphics Branch
+# Whack a Professor 
 
+## Graphics - 
+<hr>
 ### Task List 
 - Sprites (art style [minimalist/chibi/pixel/etc])
 - Background
@@ -16,13 +18,23 @@
  * Depending on your OS, you might need to install couple more dependencies.
  More info at <https://github.com/aseprite/aseprite/blob/main/INSTALL.md>
 2. [LibreSprite](https://libresprite.github.io/#!/) - free alternative to the original, forked version of Aesprite, doesn't require compiliation. 
+
 ### Tutorials 
 1. [Pixel art tutorial](https://www.youtube.com/watch?v=lfR7Qj04-UA) 
 
 
 ### Deadlines
 | Task      | Date          |  
-| --------- |:-------------:|
+| --------- | ------------- |
 | N/A       | TBA           | 
 | N/A       | TBA           |   
 | N/A       | TBA           |  
+
+## Specs
+<hr>
+
+## Backbone
+<hr>
+
+## Quality Assurance
+<hr>
