@@ -1,6 +1,6 @@
 # Whack a Professor 
 
-## Graphics - 
+## Graphics 
 ### Task List 
 - Sprites (art style [minimalist/chibi/pixel/etc])
 - Background
