@@ -1,7 +1,6 @@
 # Whack a Professor 
 
 ## Graphics - 
-<hr>
 ### Task List 
 - Sprites (art style [minimalist/chibi/pixel/etc])
 - Background
@@ -31,10 +30,7 @@
 | N/A       | TBA           |  
 
 ## Specs
-<hr>
 
 ## Backbone
-<hr>
 
 ## Quality Assurance
-<hr>
