@@ -2,12 +2,24 @@
 
 ## Graphics 
 ### Task List 
-- Sprites (art style [minimalist/chibi/pixel/etc])
-- Background
-- UI (scoreboard/cursor)
-- Sound Effects
-- Animation (series of still frames reflecting elevation and hit/not-hit status)
-- Color palettes / Colorizing  
+- Sprite Sheet (art style [minimalist/chibi/pixel/etc])
+   * [x] Professor
+   * [ ] Student 
+   * [x] Dean 
+   * [ ] Admin
+- [ ] Background
+- UI 
+   * [ ] Scoreboard
+   * [ ] Cursor
+   * [ ] Buttons
+
+- [x] Sound Effects
+
+**Note**: Each of the sprites must come with a set of graphics to indicate the different states. 
+- Default
+- Hit
+- Won Game
+- Lost Game
 
 ### Useful Links
 1. [Aseprite](https://github.com/aseprite/aseprite/blob/main/INSTALL.md) - sprite editing software built with c++, requires...
@@ -21,13 +33,6 @@
 - [Pixel art tutorial](https://www.youtube.com/watch?v=lfR7Qj04-UA) 
 - [Compiling Aesprite from source code](https://www.youtube.com/watch?v=82TIDyKjxuE)
 
-
-### Deadlines
-| Task      | Date          |  
-| --------- | ------------- |
-| N/A       | TBA           | 
-| N/A       | TBA           |   
-| N/A       | TBA           |  
 
 ## Specs
 
