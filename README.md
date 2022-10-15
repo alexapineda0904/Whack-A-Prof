@@ -7,11 +7,14 @@ Sprite Sheet (art style [minimalist/chibi/pixel/etc])
    * [x] Student 
    * [x] Dean 
    * [ ] Admin
+   
 [ ] Background
+
 UI 
    * [ ] Scoreboard
    * [ ] Cursor
    * [ ] Buttons
+
 [x] Sound Effects
 
 **Note**: Each of the sprites must come with a set of graphics to indicate the different states. 
