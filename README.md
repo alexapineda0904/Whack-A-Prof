@@ -37,9 +37,9 @@ What needs to be included in a sprite sheet...
 - [Pixel art tutorial](https://www.youtube.com/watch?v=lfR7Qj04-UA) 
 - [Compiling Aesprite from source code](https://www.youtube.com/watch?v=82TIDyKjxuE)
 
-
 ## Specs
-
+   - [Draft of Specs Document](https://docs.google.com/document/d/1DOg1KO-gd_Uh_9F1gvyWudXh33sDPnzyVeeTFYqNzb8/edit?usp=sharing)
+   
 ## Backbone
 
 ## Quality Assurance
