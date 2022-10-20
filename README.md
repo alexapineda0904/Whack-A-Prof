@@ -2,18 +2,21 @@
 
 ## Graphics 
 ### Task List 
-- Sprite Sheet (art style [minimalist/chibi/pixel/etc])
-   * [x] Professor
-   * [ ] Student 
-   * [x] Dean 
-   * [ ] Admin
-- [ ] Background
-- UI 
+
+Sprite Sheet (pixel art style)
+  * [x] Professor
+  * [x] Student 
+  * [x] Dean 
+  * [ ] Admin
+
+UI 
    * [ ] Scoreboard
    * [ ] Cursor
    * [ ] Buttons
 
-- [x] Sound Effects
+Other
+   * [x] Sound Effects
+   * [ ] Background
 
 **Note**: Each of the sprites must come with a set of graphics to indicate the different states. 
 - Default
