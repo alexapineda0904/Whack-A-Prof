@@ -2,13 +2,14 @@
 
 ## Graphics 
 ### Task List 
-**Note***: Checked tasks indicate "in progress" or "completed" 
-<ins>Sprite Sheet (pixel art style)</ins>
+**Note**: Checked tasks indicate "in progress" or "completed" <br>
+<ins>Sprite Sheet (pixel art style)</ins> <br>
 (Each of the sprites must come with a set of graphics to indicate the different states)
 - Default
 - Hit
 - Won Game
 - Lost Game
+<br>
   * [x] Professor
   * [x] Student 
   * [x] Dean 
