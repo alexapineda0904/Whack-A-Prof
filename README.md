@@ -4,10 +4,10 @@
 ### Task List 
 **Note**: Checked tasks indicate "in progress" or "completed" <br>
 What needs to be included in a sprite sheet...
-- Default
-- Hit
-- Won Game
-- Lost Game
+- Default Stage
+- Hit Stage
+- Won Game Stage
+- Lost Game Stage
 
 <ins>Sprite Sheet (pixel art style)</ins> <br>
   * [x] Professor
