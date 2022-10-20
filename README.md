@@ -3,13 +3,13 @@
 ## Graphics 
 ### Task List 
 **Note**: Checked tasks indicate "in progress" or "completed" <br>
-<ins>Sprite Sheet (pixel art style)</ins> <br>
-(Each of the sprites must come with a set of graphics to indicate the different states)
+What needs to be included in a sprite sheet...
 - Default
 - Hit
 - Won Game
 - Lost Game
-<br>
+
+<ins>Sprite Sheet (pixel art style)</ins> <br>
   * [x] Professor
   * [x] Student 
   * [x] Dean 
