@@ -2,27 +2,27 @@
 
 ## Graphics 
 ### Task List 
-
-Sprite Sheet (pixel art style)
+**Note***: Checked tasks indicate "in progress" or "completed" 
+<ins>Sprite Sheet (pixel art style)</ins>
+(Each of the sprites must come with a set of graphics to indicate the different states)
+- Default
+- Hit
+- Won Game
+- Lost Game
   * [x] Professor
   * [x] Student 
   * [x] Dean 
   * [ ] Admin
 
-UI 
-   * [ ] Scoreboard
+<ins>UI</ins>
    * [ ] Cursor
    * [ ] Buttons
+   * [ ] Menu(s)
 
-Other
+<ins>Other</ins>
    * [x] Sound Effects
-   * [ ] Background
-
-**Note**: Each of the sprites must come with a set of graphics to indicate the different states. 
-- Default
-- Hit
-- Won Game
-- Lost Game
+   * [x] Background
+   * [ ] Scoreboard
 
 ### Useful Links
 1. [Aseprite](https://github.com/aseprite/aseprite/blob/main/INSTALL.md) - sprite editing software built with c++, requires...
